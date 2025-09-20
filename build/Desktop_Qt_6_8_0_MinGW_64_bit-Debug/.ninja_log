@@ -1,0 +1,11 @@
+# ninja log v6
+32	673	7533810739315549	library_autogen/timestamp	ab4d65b1c50f90ee
+32	673	7533810739315549	library_autogen/mocs_compilation.cpp	ab4d65b1c50f90ee
+32	673	7533810739315549	C:/Users/LENOVO/Downloads/dsa/library/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/library_autogen/timestamp	ab4d65b1c50f90ee
+32	673	7533810739315549	C:/Users/LENOVO/Downloads/dsa/library/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/library_autogen/mocs_compilation.cpp	ab4d65b1c50f90ee
+1024	3696	7533580792176681	CMakeFiles/library.dir/main.cpp.obj	6a2d800a1b098613
+682	3351	7533810740192443	CMakeFiles/library.dir/returnedbooks.cpp.obj	e9f2cba59d187818
+674	2998	7533810740112309	CMakeFiles/library.dir/library_autogen/mocs_compilation.cpp.obj	4a537822a526cf4e
+685	3350	7533810740204505	CMakeFiles/library.dir/bookreservation.cpp.obj	e7ef116c6d026b3c
+678	3014	7533810740152639	CMakeFiles/library.dir/mainwindow.cpp.obj	eae99b8c4d871b49
+3351	3658	7533810766876364	library.exe	aeba01ebb3863736
